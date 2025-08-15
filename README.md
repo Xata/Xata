@@ -1,4 +1,4 @@
-# Hello! My name is Maciej AND WELCOME TO THUNDER DOME!!!!!!!! ლ(❍෴❍ლ)
+# Hello! My name is Maciej AND WELCOME TO THE THUNDER DOME!!!!!!!! ლ(❍෴❍ლ)
 ---
 
 ## 📊 GitHub Stats
