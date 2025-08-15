@@ -1,4 +1,4 @@
-# Hello! My name is Maciej AND THIS IS MY GITHUB PROFILE!!! ლ(❍෴❍ლ)
+# My name is Maciej AND THIS IS MY GITHUB PROFILE!!! ლ(❍෴❍ლ)
 ---
 
 <div align="center">
