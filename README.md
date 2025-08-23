@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Platform+Architect;Software+Developer;Early+Bird+Fish+Video+Enthusiast;Motorcycle+Builder;Legacy+App+Developer;Builds+SIEMs+and+Stuff;Teaches+Students&font=Fira%20Code&center=true&width=440&height=45&color=7aa2f7&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Platform+Architect;Software+Developer;Early+Bird+Fish+Video+Enthusiast;Motorcycle+Builder;Legacy+App+Developer;Builds+SIEMs+and+Stuff;Programming+is+art&font=Fira%20Code&center=true&width=440&height=45&color=7aa2f7&vCenter=true&size=22">
 </div>
 
 ---
