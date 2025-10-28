@@ -45,7 +45,7 @@
 ![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white)
 
 ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
-![FluentD](https://img.shields.io/badge/FluentD-0E83C8?style=for-the-badge&logo=fluentd&logoColor=white)
+![Fluent Bit](https://img.shields.io/badge/FluentBit-0E83C8?style=for-the-badge&logo=fluentbit&logoColor=white)
 ![KubeVirt](https://img.shields.io/badge/KubeVirt-326CE5?style=for-the-badge&logo=kubevirt&logoColor=white)
 
 ### Certifications:
