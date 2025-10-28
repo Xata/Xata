@@ -58,7 +58,7 @@
 
 ## What are you currently working on?
 
-- Student SIEM Platform: Built using OpenSearch, Keycloak, and FluentD to teach cybersecurity students real-world SIEM operations with cloud-native tools
+- Student SIEM Platform: Built using OpenSearch, Keycloak, and Fluent Bit to teach cybersecurity students real-world SIEM operations with cloud-native tools
 - Legacy OS Development: Creating Windows 98 applications with modern CI/CD pipelines. I like to help keep the retro computing dream alive
 - Open Source Contributions: Giving back to the open source projects that power our infrastructure at work
 
