@@ -13,24 +13,21 @@
 ## What the heck do you even do?
 
 - Cybersecurity Platform Architect at the Cybersecurity Center at MSU Denver
-- Building cloud-native SIEM solutions for cybersecurity education
-- Make students aware of open source and how to contribute
-- Contributing to open source projects I use in production
+- Building custom observability and security tooling in Rust and Python for experiential learning
 - Early riser who may or may not put meme videos on office TVs (⌐■_■)
 
 ## What tech stuff do I work with?
 
 ### Technologies
 
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![ModernGL](https://img.shields.io/badge/ModernGL-FF6B35?style=for-the-badge&logo=opengl&logoColor=white)
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![OpenTofu](https://img.shields.io/badge/OpenTofu-FFDA18?style=for-the-badge&logo=opentofu&logoColor=black)
 
@@ -38,7 +35,6 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![LWJGL](https://img.shields.io/badge/LWJGL-5382A1?style=for-the-badge&logo=java&logoColor=white)
-![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
@@ -59,7 +55,7 @@
 ## What are you currently working on?
 
 - Student SIEM Platform: Built using OpenSearch, Keycloak, and Fluent Bit to teach cybersecurity students real-world SIEM operations with cloud-native tools
-- Legacy OS Development: Creating Windows 98 applications with modern CI/CD pipelines. I like to help keep the retro computing dream alive
+- [otel-amdgpu-metrics](https://github.com/Xata/otel-amdgpu-metrics): A Rust library that exports AMD GPU metrics through OpenTelemetry
 - Open Source Contributions: Giving back to the open source projects that power our infrastructure at work
 
 ## Lemme see your GitHub stats 📊
