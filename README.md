@@ -57,3 +57,4 @@
 - Student SIEM Platform: Built using OpenSearch, Keycloak, and Fluent Bit to teach cybersecurity students real-world SIEM operations with cloud-native tools
 - [otel-amdgpu-metrics](https://github.com/Xata/otel-amdgpu-metrics): A Rust library that exports AMD GPU metrics through OpenTelemetry
 - Open Source Contributions: Giving back to the open source projects that power our infrastructure at work
+- [mwal.dev](https://mwal.dev): My personal site, recently restyled with Frutiger Aero vibes because I have no self control
